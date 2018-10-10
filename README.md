@@ -1,0 +1,2 @@
+-j'ai essayé de créer un bot twitter
+-il y a trois fichiers, j'ai gardé mes codes, "don't even try"
